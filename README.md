@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joan Chelangat Kirui
 - 👀 I’m interested in Backend Software development with Python(Django/Flask) Typescript and React
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Cloud Computing
 - 💞️ I’m looking to collaborate on projects to build up on my experience and grow my skills as a software developer
 - 📫 How to reach me 
 - Email: joankirui99@gmail.com
