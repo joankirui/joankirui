@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joan Chelangat Kirui
-- 👀 I’m interested in Backend Software development with Python(Django/Flask) Typescript and React
+- 👀 I’m interested in Backend and Frontend Software development with Python(Django/Flask) Typescript and React
 - 🌱 
 - 💞️ I’m looking to collaborate on projects to build up on my experience and grow my skills as a software developer
 - 📫 How to reach me 
